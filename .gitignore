@@ -1,0 +1,4 @@
+### Archivos ignorados ###
+.DS_*
+Icon?
+php8.php
