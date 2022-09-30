@@ -3,5 +3,5 @@
 </html>
 
 <?php
-$con->close();
+$con = null;
 ?>
